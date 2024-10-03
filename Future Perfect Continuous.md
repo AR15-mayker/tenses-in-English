@@ -7,11 +7,11 @@
 
 То есть Молли будет жить (will have been living) в Кении до следующего февраля, и, вероятно, и дольше. Февраль – момент в будущем.
 
-## Как мы образуем положительное предложение в Future Perfect Continuous?
+### Как мы образуем положительное предложение в Future Perfect Continuous?
 **He, She, It, I, We, You, They + will have been + глагол с окончанием -ing**
 
-## Как мы образуем отрицание в Future Perfect Continuous?
+### Как мы образуем отрицание в Future Perfect Continuous?
 **He, She, It, I, We, You, They + will not have been (won’t have been) + глагол с окончанием -ing** 
 
-## Как мы образуем вопрос в Future Perfect Continuous?
+### Как мы образуем вопрос в Future Perfect Continuous?
 **Will + He, She, It, I, We, You, They + have been + глагол с окончанием -ing**
