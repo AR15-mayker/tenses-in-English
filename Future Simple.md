@@ -15,6 +15,7 @@ We, I + shall not/will not (shan’t/won’t) + глагол
 ## Как мы образуем вопрос в Future Simple?
 Shall/Will + I, We + глагол
 Will + He, She, It, We, You, They + глагол
+
 **Мы ни в коем случае не используем Future Simple, для описания планов или заранее принятых решений.** 
 
 ## Слова, которые часто употребляются с Future Simple:
