@@ -10,7 +10,7 @@
  - I + am + going to + глагол
  - He, She, It + is + going to + глагол
  - We, They, You, We + are + going to + глагол
- - 
+
 **Прошедшее:**
 
  - I, He, She, It + was + going to + глагол
@@ -20,7 +20,7 @@
  - I + am not + going to + глагол
  - He, She, It + is not (isn’t) + going to + глагол
  - We, They, You, We + are not (aren’t) + going to + глагол
- - 
+
 **Прошедшее:**
 
  - I, He, She, It + was not (wasn’t) + going to + глагол
@@ -30,7 +30,7 @@
  - Am + I + going to + глагол
  - Is + He, She, It + going to + глагол
  - Are + We, They, You, We + going to + глагол
- - 
+
 **Прошедшее:**
 
  - Was + I, He, She, It + going to + глагол
